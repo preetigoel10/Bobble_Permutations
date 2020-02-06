@@ -8,7 +8,7 @@ A .class file is a compiled .java file.
 
 It also contains the input.csv file and the code has an if else condition to tackle the situation in case filename is not mentioned from cmd.
 
----- COMPILE AND RUN ON THE COMMAND LINE ----
+# COMPILE AND RUN ON THE COMMAND LINE
 To compile the code please use the following command.
                    ---> javac Main.java
 And to run the compiled program use the following command.
